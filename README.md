@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi, guns. This is my first Github repositoy.
+
